@@ -1,4 +1,4 @@
-from generators.main import rng_generator
+from Multi_Repo_AP_generators.main import rng_generator
 
 def arithmetic_progression(a, n, d):
     yield from (a + (n - 1) * d for n in rng_generator(n))
