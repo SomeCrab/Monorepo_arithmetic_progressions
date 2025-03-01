@@ -1,5 +1,5 @@
-from arithmetic_progressions.main import arithmetic_progression, arithmetic_progression_beyond
-from generators.main import rng_generator
+from Multi_Repo_AP_algorithms.main import arithmetic_progression, arithmetic_progression_beyond
+from Multi_Repo_AP_generators.main import rng_generator
 
 def main() -> None:
     a, n, d = 2, 5, 3
