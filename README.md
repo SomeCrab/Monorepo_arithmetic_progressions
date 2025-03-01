@@ -7,8 +7,3 @@ The code itself is actually just one part of my older Python hw.
 
 ## Files
 - main.py - Main application for arithmetic progression. Wrom here starts this whole thing.
-
-
-## How to run
-1. Clone this repo.
-2. Run `main.py` using python interpreter.
