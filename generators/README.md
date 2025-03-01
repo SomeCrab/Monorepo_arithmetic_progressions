@@ -7,8 +7,3 @@ The code itself is actually just one part of my older Python hw.
 
 ## Files
 - main.py - Generators for arithmetic progression.
-
-
-## How to run
-1. Clone this repo.
-2. Run `main.py` using python interpreter.
